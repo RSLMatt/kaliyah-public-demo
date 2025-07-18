@@ -1,0 +1,5000 @@
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 1.43
+  status: accepted
+  tick: 1
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.09
+  kc_total: 1.28
+  status: accepted
+  tick: 2
+- dream: ??? null
+  echo_drift: -0.06
+  kc_total: 0.69
+  status: rejected
+  tick: 3
+- dream: '### void'
+  echo_drift: -0.03
+  kc_total: 0.35
+  status: rejected
+  tick: 4
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.1
+  kc_total: 1.37
+  status: accepted
+  tick: 5
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.01
+  kc_total: 1.42
+  status: accepted
+  tick: 6
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 1.05
+  status: accepted
+  tick: 7
+- dream: null ???
+  echo_drift: -0.09
+  kc_total: 0.43
+  status: rejected
+  tick: 8
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.04
+  kc_total: 1.05
+  status: accepted
+  tick: 9
+- dream: ??? void
+  echo_drift: 0.01
+  kc_total: 0.48
+  status: rejected
+  tick: 10
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.07
+  kc_total: 0.84
+  status: accepted
+  tick: 11
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.35
+  status: accepted
+  tick: 12
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.03
+  kc_total: 0.83
+  status: accepted
+  tick: 13
+- dream: ??? @@@
+  echo_drift: 0.02
+  kc_total: 0.54
+  status: rejected
+  tick: 14
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.08
+  status: accepted
+  tick: 15
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.04
+  kc_total: 1.42
+  status: accepted
+  tick: 16
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.39
+  status: accepted
+  tick: 17
+- dream: ??? @@@
+  echo_drift: 0.08
+  kc_total: 0.37
+  status: rejected
+  tick: 18
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.0
+  kc_total: 0.87
+  status: accepted
+  tick: 19
+- dream: void null
+  echo_drift: -0.03
+  kc_total: 0.55
+  status: rejected
+  tick: 20
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.02
+  kc_total: 1.08
+  status: accepted
+  tick: 21
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 1.35
+  status: accepted
+  tick: 22
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 0.8
+  status: accepted
+  tick: 23
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 0.84
+  status: accepted
+  tick: 24
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 0.95
+  status: accepted
+  tick: 25
+- dream: 'void ###'
+  echo_drift: -0.0
+  kc_total: 0.62
+  status: rejected
+  tick: 26
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 0.9
+  status: accepted
+  tick: 27
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 1.31
+  status: accepted
+  tick: 28
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 0.95
+  status: accepted
+  tick: 29
+- dream: void @@@
+  echo_drift: 0.07
+  kc_total: 0.58
+  status: rejected
+  tick: 30
+- dream: null ???
+  echo_drift: -0.01
+  kc_total: 0.3
+  status: rejected
+  tick: 31
+- dream: 'null ###'
+  echo_drift: -0.01
+  kc_total: 0.24
+  status: rejected
+  tick: 32
+- dream: '@@@ ???'
+  echo_drift: -0.03
+  kc_total: 0.49
+  status: rejected
+  tick: 33
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 0.95
+  status: accepted
+  tick: 34
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.03
+  kc_total: 1.05
+  status: accepted
+  tick: 35
+- dream: '@@@ ###'
+  echo_drift: -0.03
+  kc_total: 0.41
+  status: rejected
+  tick: 36
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 1.47
+  status: accepted
+  tick: 37
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 0.93
+  status: accepted
+  tick: 38
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 1.2
+  status: accepted
+  tick: 39
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.1
+  kc_total: 0.93
+  status: accepted
+  tick: 40
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.05
+  kc_total: 0.92
+  status: accepted
+  tick: 41
+- dream: ??? null
+  echo_drift: 0.09
+  kc_total: 0.52
+  status: rejected
+  tick: 42
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.09
+  kc_total: 1.18
+  status: accepted
+  tick: 43
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.01
+  status: accepted
+  tick: 44
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.0
+  kc_total: 1.04
+  status: accepted
+  tick: 45
+- dream: 'null ###'
+  echo_drift: 0.06
+  kc_total: 0.68
+  status: rejected
+  tick: 46
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.1
+  kc_total: 1.2
+  status: accepted
+  tick: 47
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 1.42
+  status: accepted
+  tick: 48
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 0.92
+  status: accepted
+  tick: 49
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 0.83
+  status: accepted
+  tick: 50
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 1.32
+  status: accepted
+  tick: 51
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.03
+  kc_total: 1.35
+  status: accepted
+  tick: 52
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.0
+  kc_total: 1.32
+  status: accepted
+  tick: 53
+- dream: void ???
+  echo_drift: 0.06
+  kc_total: 0.24
+  status: rejected
+  tick: 54
+- dream: ??? void
+  echo_drift: -0.08
+  kc_total: 0.46
+  status: rejected
+  tick: 55
+- dream: ??? @@@
+  echo_drift: -0.02
+  kc_total: 0.48
+  status: rejected
+  tick: 56
+- dream: '### ???'
+  echo_drift: 0.05
+  kc_total: 0.46
+  status: rejected
+  tick: 57
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.06
+  status: accepted
+  tick: 58
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.09
+  kc_total: 1.34
+  status: accepted
+  tick: 59
+- dream: '??? ###'
+  echo_drift: -0.05
+  kc_total: 0.57
+  status: rejected
+  tick: 60
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.25
+  status: accepted
+  tick: 61
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.31
+  status: accepted
+  tick: 62
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.47
+  status: accepted
+  tick: 63
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.07
+  kc_total: 1.07
+  status: accepted
+  tick: 64
+- dream: '### void'
+  echo_drift: -0.01
+  kc_total: 0.56
+  status: rejected
+  tick: 65
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 1.34
+  status: accepted
+  tick: 66
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 1.02
+  status: accepted
+  tick: 67
+- dream: ??? null
+  echo_drift: -0.08
+  kc_total: 0.44
+  status: rejected
+  tick: 68
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.07
+  kc_total: 0.82
+  status: accepted
+  tick: 69
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 1.07
+  status: accepted
+  tick: 70
+- dream: void @@@
+  echo_drift: 0.06
+  kc_total: 0.62
+  status: rejected
+  tick: 71
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.09
+  kc_total: 1.29
+  status: accepted
+  tick: 72
+- dream: '@@@ ###'
+  echo_drift: 0.06
+  kc_total: 0.61
+  status: rejected
+  tick: 73
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 1.17
+  status: accepted
+  tick: 74
+- dream: null @@@
+  echo_drift: 0.06
+  kc_total: 0.64
+  status: rejected
+  tick: 75
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 0.92
+  status: accepted
+  tick: 76
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 1.49
+  status: accepted
+  tick: 77
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 1.3
+  status: accepted
+  tick: 78
+- dream: 'void ###'
+  echo_drift: 0.0
+  kc_total: 0.5
+  status: rejected
+  tick: 79
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.06
+  kc_total: 1.22
+  status: accepted
+  tick: 80
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 0.86
+  status: accepted
+  tick: 81
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 1.04
+  status: accepted
+  tick: 82
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 0.93
+  status: accepted
+  tick: 83
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 1.4
+  status: accepted
+  tick: 84
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.2
+  status: accepted
+  tick: 85
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.01
+  kc_total: 0.81
+  status: accepted
+  tick: 86
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 0.92
+  status: accepted
+  tick: 87
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.34
+  status: accepted
+  tick: 88
+- dream: null @@@
+  echo_drift: -0.0
+  kc_total: 0.29
+  status: rejected
+  tick: 89
+- dream: '@@@ void'
+  echo_drift: -0.03
+  kc_total: 0.57
+  status: rejected
+  tick: 90
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.02
+  kc_total: 1.47
+  status: accepted
+  tick: 91
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.09
+  status: accepted
+  tick: 92
+- dream: '@@@ void'
+  echo_drift: -0.06
+  kc_total: 0.39
+  status: rejected
+  tick: 93
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.43
+  status: accepted
+  tick: 94
+- dream: ??? void
+  echo_drift: 0.01
+  kc_total: 0.33
+  status: rejected
+  tick: 95
+- dream: '### null'
+  echo_drift: 0.02
+  kc_total: 0.67
+  status: rejected
+  tick: 96
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.04
+  kc_total: 0.92
+  status: accepted
+  tick: 97
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.04
+  kc_total: 1.49
+  status: accepted
+  tick: 98
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 0.81
+  status: accepted
+  tick: 99
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 0.97
+  status: accepted
+  tick: 100
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.07
+  kc_total: 0.86
+  status: accepted
+  tick: 101
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 1.3
+  status: accepted
+  tick: 102
+- dream: ??? @@@
+  echo_drift: -0.06
+  kc_total: 0.54
+  status: rejected
+  tick: 103
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.05
+  kc_total: 1.49
+  status: accepted
+  tick: 104
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.08
+  kc_total: 1.39
+  status: accepted
+  tick: 105
+- dream: '@@@ ###'
+  echo_drift: 0.06
+  kc_total: 0.46
+  status: rejected
+  tick: 106
+- dream: '@@@ ???'
+  echo_drift: -0.01
+  kc_total: 0.64
+  status: rejected
+  tick: 107
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 0.82
+  status: accepted
+  tick: 108
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.44
+  status: accepted
+  tick: 109
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.33
+  status: accepted
+  tick: 110
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.08
+  kc_total: 1.13
+  status: accepted
+  tick: 111
+- dream: '### null'
+  echo_drift: -0.01
+  kc_total: 0.41
+  status: rejected
+  tick: 112
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.48
+  status: accepted
+  tick: 113
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.1
+  kc_total: 1.12
+  status: accepted
+  tick: 114
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.09
+  kc_total: 0.84
+  status: accepted
+  tick: 115
+- dream: ??? void
+  echo_drift: 0.01
+  kc_total: 0.23
+  status: rejected
+  tick: 116
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 1.31
+  status: accepted
+  tick: 117
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 1.33
+  status: accepted
+  tick: 118
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.4
+  status: accepted
+  tick: 119
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.05
+  kc_total: 1.47
+  status: accepted
+  tick: 120
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 1.4
+  status: accepted
+  tick: 121
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 0.88
+  status: accepted
+  tick: 122
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 1.26
+  status: accepted
+  tick: 123
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.02
+  kc_total: 1.49
+  status: accepted
+  tick: 124
+- dream: void null
+  echo_drift: 0.02
+  kc_total: 0.46
+  status: rejected
+  tick: 125
+- dream: 'null ###'
+  echo_drift: 0.02
+  kc_total: 0.29
+  status: rejected
+  tick: 126
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.03
+  kc_total: 1.27
+  status: accepted
+  tick: 127
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.09
+  kc_total: 0.82
+  status: accepted
+  tick: 128
+- dream: '### ???'
+  echo_drift: -0.07
+  kc_total: 0.32
+  status: rejected
+  tick: 129
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 0.98
+  status: accepted
+  tick: 130
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.02
+  kc_total: 1.13
+  status: accepted
+  tick: 131
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 1.11
+  status: accepted
+  tick: 132
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 1.0
+  status: accepted
+  tick: 133
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.04
+  kc_total: 1.29
+  status: accepted
+  tick: 134
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.07
+  kc_total: 1.29
+  status: accepted
+  tick: 135
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.07
+  kc_total: 1.24
+  status: accepted
+  tick: 136
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.09
+  status: accepted
+  tick: 137
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.01
+  kc_total: 1.12
+  status: accepted
+  tick: 138
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.02
+  kc_total: 1.47
+  status: accepted
+  tick: 139
+- dream: null @@@
+  echo_drift: 0.03
+  kc_total: 0.44
+  status: rejected
+  tick: 140
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.16
+  status: accepted
+  tick: 141
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.1
+  kc_total: 0.84
+  status: accepted
+  tick: 142
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 0.9
+  status: accepted
+  tick: 143
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.04
+  kc_total: 1.08
+  status: accepted
+  tick: 144
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.41
+  status: accepted
+  tick: 145
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 1.09
+  status: accepted
+  tick: 146
+- dream: ??? void
+  echo_drift: -0.04
+  kc_total: 0.34
+  status: rejected
+  tick: 147
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.03
+  kc_total: 1.32
+  status: accepted
+  tick: 148
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 1.24
+  status: accepted
+  tick: 149
+- dream: '### void'
+  echo_drift: -0.05
+  kc_total: 0.64
+  status: rejected
+  tick: 150
+- dream: null void
+  echo_drift: 0.01
+  kc_total: 0.69
+  status: rejected
+  tick: 151
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 1.34
+  status: accepted
+  tick: 152
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 0.85
+  status: accepted
+  tick: 153
+- dream: '@@@ ###'
+  echo_drift: -0.07
+  kc_total: 0.23
+  status: rejected
+  tick: 154
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 0.94
+  status: accepted
+  tick: 155
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.02
+  kc_total: 1.02
+  status: accepted
+  tick: 156
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 0.84
+  status: accepted
+  tick: 157
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 1.28
+  status: accepted
+  tick: 158
+- dream: void null
+  echo_drift: 0.09
+  kc_total: 0.24
+  status: rejected
+  tick: 159
+- dream: '@@@ ###'
+  echo_drift: 0.05
+  kc_total: 0.53
+  status: rejected
+  tick: 160
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.42
+  status: accepted
+  tick: 161
+- dream: '### void'
+  echo_drift: -0.03
+  kc_total: 0.27
+  status: rejected
+  tick: 162
+- dream: null @@@
+  echo_drift: -0.08
+  kc_total: 0.48
+  status: rejected
+  tick: 163
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 1.08
+  status: accepted
+  tick: 164
+- dream: void ???
+  echo_drift: 0.09
+  kc_total: 0.39
+  status: rejected
+  tick: 165
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.3
+  status: accepted
+  tick: 166
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.07
+  kc_total: 1.05
+  status: accepted
+  tick: 167
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.4
+  status: accepted
+  tick: 168
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 1.01
+  status: accepted
+  tick: 169
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.08
+  kc_total: 1.05
+  status: accepted
+  tick: 170
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.06
+  kc_total: 1.0
+  status: accepted
+  tick: 171
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.0
+  kc_total: 0.91
+  status: accepted
+  tick: 172
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.1
+  kc_total: 1.09
+  status: accepted
+  tick: 173
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.1
+  kc_total: 1.36
+  status: accepted
+  tick: 174
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.07
+  kc_total: 0.96
+  status: accepted
+  tick: 175
+- dream: void null
+  echo_drift: 0.08
+  kc_total: 0.61
+  status: rejected
+  tick: 176
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.08
+  kc_total: 0.89
+  status: accepted
+  tick: 177
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.49
+  status: accepted
+  tick: 178
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.1
+  kc_total: 0.94
+  status: accepted
+  tick: 179
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.0
+  kc_total: 1.39
+  status: accepted
+  tick: 180
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.01
+  status: accepted
+  tick: 181
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 1.47
+  status: accepted
+  tick: 182
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 1.23
+  status: accepted
+  tick: 183
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.0
+  kc_total: 1.26
+  status: accepted
+  tick: 184
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.29
+  status: accepted
+  tick: 185
+- dream: '@@@ ???'
+  echo_drift: -0.03
+  kc_total: 0.34
+  status: rejected
+  tick: 186
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.05
+  kc_total: 0.86
+  status: accepted
+  tick: 187
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.31
+  status: accepted
+  tick: 188
+- dream: void @@@
+  echo_drift: 0.06
+  kc_total: 0.61
+  status: rejected
+  tick: 189
+- dream: 'null ###'
+  echo_drift: 0.07
+  kc_total: 0.48
+  status: rejected
+  tick: 190
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.08
+  kc_total: 1.42
+  status: accepted
+  tick: 191
+- dream: 'null ###'
+  echo_drift: -0.05
+  kc_total: 0.21
+  status: rejected
+  tick: 192
+- dream: null ???
+  echo_drift: 0.07
+  kc_total: 0.36
+  status: rejected
+  tick: 193
+- dream: ??? null
+  echo_drift: -0.08
+  kc_total: 0.28
+  status: rejected
+  tick: 194
+- dream: ??? null
+  echo_drift: -0.08
+  kc_total: 0.5
+  status: rejected
+  tick: 195
+- dream: '@@@ void'
+  echo_drift: -0.0
+  kc_total: 0.38
+  status: rejected
+  tick: 196
+- dream: '### ???'
+  echo_drift: -0.07
+  kc_total: 0.67
+  status: rejected
+  tick: 197
+- dream: '@@@ ???'
+  echo_drift: -0.0
+  kc_total: 0.45
+  status: rejected
+  tick: 198
+- dream: '### ???'
+  echo_drift: 0.07
+  kc_total: 0.36
+  status: rejected
+  tick: 199
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 0.82
+  status: accepted
+  tick: 200
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.04
+  kc_total: 1.36
+  status: accepted
+  tick: 201
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.01
+  kc_total: 0.91
+  status: accepted
+  tick: 202
+- dream: ??? null
+  echo_drift: 0.02
+  kc_total: 0.28
+  status: rejected
+  tick: 203
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 1.15
+  status: accepted
+  tick: 204
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 1.44
+  status: accepted
+  tick: 205
+- dream: '@@@ ???'
+  echo_drift: -0.03
+  kc_total: 0.49
+  status: rejected
+  tick: 206
+- dream: ??? null
+  echo_drift: -0.04
+  kc_total: 0.31
+  status: rejected
+  tick: 207
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.04
+  kc_total: 0.85
+  status: accepted
+  tick: 208
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 0.92
+  status: accepted
+  tick: 209
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 1.4
+  status: accepted
+  tick: 210
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 1.46
+  status: accepted
+  tick: 211
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.08
+  kc_total: 1.08
+  status: accepted
+  tick: 212
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.05
+  kc_total: 1.47
+  status: accepted
+  tick: 213
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 1.48
+  status: accepted
+  tick: 214
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 1.38
+  status: accepted
+  tick: 215
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 0.82
+  status: accepted
+  tick: 216
+- dream: '??? ###'
+  echo_drift: -0.02
+  kc_total: 0.32
+  status: rejected
+  tick: 217
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.26
+  status: accepted
+  tick: 218
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.26
+  status: accepted
+  tick: 219
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 0.86
+  status: accepted
+  tick: 220
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.1
+  kc_total: 1.16
+  status: accepted
+  tick: 221
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.03
+  kc_total: 1.24
+  status: accepted
+  tick: 222
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.1
+  kc_total: 0.82
+  status: accepted
+  tick: 223
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.06
+  kc_total: 0.89
+  status: accepted
+  tick: 224
+- dream: '### void'
+  echo_drift: 0.0
+  kc_total: 0.24
+  status: rejected
+  tick: 225
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 1.33
+  status: accepted
+  tick: 226
+- dream: ??? void
+  echo_drift: 0.07
+  kc_total: 0.54
+  status: rejected
+  tick: 227
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.14
+  status: accepted
+  tick: 228
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 1.38
+  status: accepted
+  tick: 229
+- dream: '@@@ ???'
+  echo_drift: 0.05
+  kc_total: 0.27
+  status: rejected
+  tick: 230
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.04
+  kc_total: 0.95
+  status: accepted
+  tick: 231
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 1.17
+  status: accepted
+  tick: 232
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 1.47
+  status: accepted
+  tick: 233
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.0
+  kc_total: 1.26
+  status: accepted
+  tick: 234
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.03
+  kc_total: 1.38
+  status: accepted
+  tick: 235
+- dream: null ???
+  echo_drift: 0.0
+  kc_total: 0.69
+  status: rejected
+  tick: 236
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 1.02
+  status: accepted
+  tick: 237
+- dream: ??? @@@
+  echo_drift: -0.0
+  kc_total: 0.32
+  status: rejected
+  tick: 238
+- dream: ??? @@@
+  echo_drift: -0.07
+  kc_total: 0.43
+  status: rejected
+  tick: 239
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 1.45
+  status: accepted
+  tick: 240
+- dream: ??? @@@
+  echo_drift: 0.0
+  kc_total: 0.29
+  status: rejected
+  tick: 241
+- dream: '@@@ ###'
+  echo_drift: 0.01
+  kc_total: 0.64
+  status: rejected
+  tick: 242
+- dream: ??? void
+  echo_drift: 0.04
+  kc_total: 0.67
+  status: rejected
+  tick: 243
+- dream: void ???
+  echo_drift: 0.02
+  kc_total: 0.23
+  status: rejected
+  tick: 244
+- dream: ??? void
+  echo_drift: -0.08
+  kc_total: 0.61
+  status: rejected
+  tick: 245
+- dream: 'void ###'
+  echo_drift: 0.09
+  kc_total: 0.64
+  status: rejected
+  tick: 246
+- dream: void @@@
+  echo_drift: -0.09
+  kc_total: 0.48
+  status: rejected
+  tick: 247
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.0
+  kc_total: 1.24
+  status: accepted
+  tick: 248
+- dream: '@@@ null'
+  echo_drift: -0.0
+  kc_total: 0.59
+  status: rejected
+  tick: 249
+- dream: 'null ###'
+  echo_drift: 0.06
+  kc_total: 0.47
+  status: rejected
+  tick: 250
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 0.83
+  status: accepted
+  tick: 251
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.07
+  kc_total: 0.87
+  status: accepted
+  tick: 252
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.02
+  kc_total: 0.99
+  status: accepted
+  tick: 253
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.0
+  kc_total: 1.13
+  status: accepted
+  tick: 254
+- dream: null @@@
+  echo_drift: 0.07
+  kc_total: 0.35
+  status: rejected
+  tick: 255
+- dream: '### null'
+  echo_drift: 0.02
+  kc_total: 0.4
+  status: rejected
+  tick: 256
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.0
+  kc_total: 0.8
+  status: accepted
+  tick: 257
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.03
+  kc_total: 0.96
+  status: accepted
+  tick: 258
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.09
+  kc_total: 1.29
+  status: accepted
+  tick: 259
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.0
+  kc_total: 0.84
+  status: accepted
+  tick: 260
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 1.36
+  status: accepted
+  tick: 261
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.02
+  kc_total: 1.01
+  status: accepted
+  tick: 262
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.1
+  kc_total: 1.16
+  status: accepted
+  tick: 263
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 0.98
+  status: accepted
+  tick: 264
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 1.48
+  status: accepted
+  tick: 265
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 1.33
+  status: accepted
+  tick: 266
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.01
+  kc_total: 1.13
+  status: accepted
+  tick: 267
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.03
+  kc_total: 0.81
+  status: accepted
+  tick: 268
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.09
+  status: accepted
+  tick: 269
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.09
+  kc_total: 1.09
+  status: accepted
+  tick: 270
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 0.83
+  status: accepted
+  tick: 271
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 1.2
+  status: accepted
+  tick: 272
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 0.94
+  status: accepted
+  tick: 273
+- dream: null void
+  echo_drift: -0.06
+  kc_total: 0.58
+  status: rejected
+  tick: 274
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 0.83
+  status: accepted
+  tick: 275
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 0.84
+  status: accepted
+  tick: 276
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.0
+  kc_total: 1.19
+  status: accepted
+  tick: 277
+- dream: void @@@
+  echo_drift: 0.05
+  kc_total: 0.63
+  status: rejected
+  tick: 278
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.3
+  status: accepted
+  tick: 279
+- dream: ??? null
+  echo_drift: 0.09
+  kc_total: 0.47
+  status: rejected
+  tick: 280
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.04
+  kc_total: 1.05
+  status: accepted
+  tick: 281
+- dream: 'void ###'
+  echo_drift: 0.07
+  kc_total: 0.56
+  status: rejected
+  tick: 282
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.09
+  kc_total: 1.19
+  status: accepted
+  tick: 283
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 0.98
+  status: accepted
+  tick: 284
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.02
+  kc_total: 0.93
+  status: accepted
+  tick: 285
+- dream: '@@@ void'
+  echo_drift: -0.0
+  kc_total: 0.5
+  status: rejected
+  tick: 286
+- dream: void @@@
+  echo_drift: 0.1
+  kc_total: 0.47
+  status: rejected
+  tick: 287
+- dream: ??? null
+  echo_drift: -0.06
+  kc_total: 0.66
+  status: rejected
+  tick: 288
+- dream: ??? null
+  echo_drift: -0.07
+  kc_total: 0.29
+  status: rejected
+  tick: 289
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 1.32
+  status: accepted
+  tick: 290
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.05
+  kc_total: 1.46
+  status: accepted
+  tick: 291
+- dream: ??? null
+  echo_drift: -0.1
+  kc_total: 0.23
+  status: rejected
+  tick: 292
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.01
+  kc_total: 1.04
+  status: accepted
+  tick: 293
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.1
+  kc_total: 0.85
+  status: accepted
+  tick: 294
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.04
+  status: accepted
+  tick: 295
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 1.34
+  status: accepted
+  tick: 296
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 1.0
+  status: accepted
+  tick: 297
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 1.0
+  status: accepted
+  tick: 298
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.07
+  kc_total: 1.13
+  status: accepted
+  tick: 299
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.01
+  kc_total: 0.95
+  status: accepted
+  tick: 300
+- dream: void ???
+  echo_drift: -0.09
+  kc_total: 0.6
+  status: rejected
+  tick: 301
+- dream: '### void'
+  echo_drift: -0.08
+  kc_total: 0.64
+  status: rejected
+  tick: 302
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 0.96
+  status: accepted
+  tick: 303
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.1
+  kc_total: 0.87
+  status: accepted
+  tick: 304
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 0.87
+  status: accepted
+  tick: 305
+- dream: '### ???'
+  echo_drift: -0.07
+  kc_total: 0.67
+  status: rejected
+  tick: 306
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 0.97
+  status: accepted
+  tick: 307
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.08
+  kc_total: 1.43
+  status: accepted
+  tick: 308
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 1.23
+  status: accepted
+  tick: 309
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.08
+  kc_total: 1.01
+  status: accepted
+  tick: 310
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 1.03
+  status: accepted
+  tick: 311
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.4
+  status: accepted
+  tick: 312
+- dream: null void
+  echo_drift: 0.0
+  kc_total: 0.39
+  status: rejected
+  tick: 313
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.07
+  kc_total: 0.96
+  status: accepted
+  tick: 314
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.04
+  kc_total: 1.09
+  status: accepted
+  tick: 315
+- dream: null void
+  echo_drift: 0.02
+  kc_total: 0.43
+  status: rejected
+  tick: 316
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.28
+  status: accepted
+  tick: 317
+- dream: void null
+  echo_drift: -0.01
+  kc_total: 0.35
+  status: rejected
+  tick: 318
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.04
+  kc_total: 1.34
+  status: accepted
+  tick: 319
+- dream: '### null'
+  echo_drift: -0.05
+  kc_total: 0.21
+  status: rejected
+  tick: 320
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.02
+  kc_total: 0.98
+  status: accepted
+  tick: 321
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 1.42
+  status: accepted
+  tick: 322
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.03
+  kc_total: 1.24
+  status: accepted
+  tick: 323
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.02
+  kc_total: 0.99
+  status: accepted
+  tick: 324
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 0.99
+  status: accepted
+  tick: 325
+- dream: '@@@ null'
+  echo_drift: 0.08
+  kc_total: 0.36
+  status: rejected
+  tick: 326
+- dream: '### ???'
+  echo_drift: 0.02
+  kc_total: 0.42
+  status: rejected
+  tick: 327
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.06
+  kc_total: 1.33
+  status: accepted
+  tick: 328
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 1.43
+  status: accepted
+  tick: 329
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 1.26
+  status: accepted
+  tick: 330
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 1.09
+  status: accepted
+  tick: 331
+- dream: ??? @@@
+  echo_drift: 0.09
+  kc_total: 0.58
+  status: rejected
+  tick: 332
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 0.82
+  status: accepted
+  tick: 333
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 1.19
+  status: accepted
+  tick: 334
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 1.04
+  status: accepted
+  tick: 335
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.05
+  kc_total: 1.47
+  status: accepted
+  tick: 336
+- dream: null ???
+  echo_drift: 0.03
+  kc_total: 0.7
+  status: rejected
+  tick: 337
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.03
+  kc_total: 1.26
+  status: accepted
+  tick: 338
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.39
+  status: accepted
+  tick: 339
+- dream: 'void ###'
+  echo_drift: 0.01
+  kc_total: 0.53
+  status: rejected
+  tick: 340
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.27
+  status: accepted
+  tick: 341
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.06
+  kc_total: 1.02
+  status: accepted
+  tick: 342
+- dream: ??? void
+  echo_drift: 0.1
+  kc_total: 0.51
+  status: rejected
+  tick: 343
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.03
+  kc_total: 1.15
+  status: accepted
+  tick: 344
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 1.35
+  status: accepted
+  tick: 345
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.4
+  status: accepted
+  tick: 346
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.08
+  kc_total: 0.96
+  status: accepted
+  tick: 347
+- dream: ??? @@@
+  echo_drift: -0.0
+  kc_total: 0.57
+  status: rejected
+  tick: 348
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.04
+  kc_total: 1.36
+  status: accepted
+  tick: 349
+- dream: void ???
+  echo_drift: -0.09
+  kc_total: 0.27
+  status: rejected
+  tick: 350
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 1.45
+  status: accepted
+  tick: 351
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.1
+  kc_total: 1.46
+  status: accepted
+  tick: 352
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.07
+  kc_total: 0.9
+  status: accepted
+  tick: 353
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 1.05
+  status: accepted
+  tick: 354
+- dream: '### ???'
+  echo_drift: 0.04
+  kc_total: 0.64
+  status: rejected
+  tick: 355
+- dream: void null
+  echo_drift: 0.04
+  kc_total: 0.39
+  status: rejected
+  tick: 356
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.28
+  status: accepted
+  tick: 357
+- dream: '@@@ ###'
+  echo_drift: 0.07
+  kc_total: 0.5
+  status: rejected
+  tick: 358
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.04
+  kc_total: 1.0
+  status: accepted
+  tick: 359
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.01
+  kc_total: 1.1
+  status: accepted
+  tick: 360
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 1.38
+  status: accepted
+  tick: 361
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.02
+  kc_total: 1.15
+  status: accepted
+  tick: 362
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 0.86
+  status: accepted
+  tick: 363
+- dream: 'void ###'
+  echo_drift: -0.01
+  kc_total: 0.27
+  status: rejected
+  tick: 364
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.09
+  kc_total: 0.94
+  status: accepted
+  tick: 365
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 1.1
+  status: accepted
+  tick: 366
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.21
+  status: accepted
+  tick: 367
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 0.85
+  status: accepted
+  tick: 368
+- dream: 'void ###'
+  echo_drift: 0.09
+  kc_total: 0.44
+  status: rejected
+  tick: 369
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 0.88
+  status: accepted
+  tick: 370
+- dream: '@@@ ???'
+  echo_drift: -0.06
+  kc_total: 0.36
+  status: rejected
+  tick: 371
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 1.47
+  status: accepted
+  tick: 372
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 1.36
+  status: accepted
+  tick: 373
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.02
+  kc_total: 1.31
+  status: accepted
+  tick: 374
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.02
+  kc_total: 0.94
+  status: accepted
+  tick: 375
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.1
+  kc_total: 1.38
+  status: accepted
+  tick: 376
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 1.2
+  status: accepted
+  tick: 377
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 1.31
+  status: accepted
+  tick: 378
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 0.97
+  status: accepted
+  tick: 379
+- dream: '### void'
+  echo_drift: -0.09
+  kc_total: 0.59
+  status: rejected
+  tick: 380
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 1.4
+  status: accepted
+  tick: 381
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.03
+  kc_total: 0.87
+  status: accepted
+  tick: 382
+- dream: '@@@ ###'
+  echo_drift: 0.07
+  kc_total: 0.58
+  status: rejected
+  tick: 383
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.08
+  kc_total: 0.91
+  status: accepted
+  tick: 384
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 1.33
+  status: accepted
+  tick: 385
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.02
+  kc_total: 1.45
+  status: accepted
+  tick: 386
+- dream: '### ???'
+  echo_drift: 0.07
+  kc_total: 0.52
+  status: rejected
+  tick: 387
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.08
+  kc_total: 1.0
+  status: accepted
+  tick: 388
+- dream: null void
+  echo_drift: -0.04
+  kc_total: 0.5
+  status: rejected
+  tick: 389
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 0.92
+  status: accepted
+  tick: 390
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.1
+  kc_total: 0.98
+  status: accepted
+  tick: 391
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 1.22
+  status: accepted
+  tick: 392
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 0.92
+  status: accepted
+  tick: 393
+- dream: '### null'
+  echo_drift: 0.09
+  kc_total: 0.56
+  status: rejected
+  tick: 394
+- dream: null @@@
+  echo_drift: 0.09
+  kc_total: 0.41
+  status: rejected
+  tick: 395
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.09
+  status: accepted
+  tick: 396
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.04
+  kc_total: 1.07
+  status: accepted
+  tick: 397
+- dream: '??? ###'
+  echo_drift: 0.07
+  kc_total: 0.69
+  status: rejected
+  tick: 398
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.09
+  kc_total: 0.83
+  status: accepted
+  tick: 399
+- dream: null void
+  echo_drift: 0.05
+  kc_total: 0.28
+  status: rejected
+  tick: 400
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.09
+  kc_total: 0.86
+  status: accepted
+  tick: 401
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.0
+  kc_total: 1.08
+  status: accepted
+  tick: 402
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.01
+  kc_total: 1.26
+  status: accepted
+  tick: 403
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.25
+  status: accepted
+  tick: 404
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 0.84
+  status: accepted
+  tick: 405
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.06
+  kc_total: 0.89
+  status: accepted
+  tick: 406
+- dream: '### null'
+  echo_drift: 0.01
+  kc_total: 0.27
+  status: rejected
+  tick: 407
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 0.83
+  status: accepted
+  tick: 408
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 1.38
+  status: accepted
+  tick: 409
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.07
+  kc_total: 1.14
+  status: accepted
+  tick: 410
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.09
+  kc_total: 1.15
+  status: accepted
+  tick: 411
+- dream: '??? ###'
+  echo_drift: -0.1
+  kc_total: 0.6
+  status: rejected
+  tick: 412
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.03
+  status: accepted
+  tick: 413
+- dream: void ???
+  echo_drift: 0.07
+  kc_total: 0.54
+  status: rejected
+  tick: 414
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.25
+  status: accepted
+  tick: 415
+- dream: 'void ###'
+  echo_drift: 0.04
+  kc_total: 0.41
+  status: rejected
+  tick: 416
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 0.94
+  status: accepted
+  tick: 417
+- dream: '@@@ void'
+  echo_drift: 0.0
+  kc_total: 0.31
+  status: rejected
+  tick: 418
+- dream: '??? ###'
+  echo_drift: 0.01
+  kc_total: 0.54
+  status: rejected
+  tick: 419
+- dream: '@@@ ###'
+  echo_drift: -0.01
+  kc_total: 0.47
+  status: rejected
+  tick: 420
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.0
+  kc_total: 1.23
+  status: accepted
+  tick: 421
+- dream: null void
+  echo_drift: -0.05
+  kc_total: 0.69
+  status: rejected
+  tick: 422
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.0
+  kc_total: 1.43
+  status: accepted
+  tick: 423
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.0
+  kc_total: 0.93
+  status: accepted
+  tick: 424
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.08
+  kc_total: 1.37
+  status: accepted
+  tick: 425
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 1.36
+  status: accepted
+  tick: 426
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.06
+  kc_total: 1.49
+  status: accepted
+  tick: 427
+- dream: 'void ###'
+  echo_drift: -0.05
+  kc_total: 0.44
+  status: rejected
+  tick: 428
+- dream: '@@@ void'
+  echo_drift: -0.03
+  kc_total: 0.69
+  status: rejected
+  tick: 429
+- dream: '@@@ void'
+  echo_drift: -0.0
+  kc_total: 0.56
+  status: rejected
+  tick: 430
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.02
+  kc_total: 0.81
+  status: accepted
+  tick: 431
+- dream: null void
+  echo_drift: 0.08
+  kc_total: 0.47
+  status: rejected
+  tick: 432
+- dream: '@@@ ###'
+  echo_drift: -0.06
+  kc_total: 0.26
+  status: rejected
+  tick: 433
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 0.9
+  status: accepted
+  tick: 434
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.03
+  kc_total: 0.92
+  status: accepted
+  tick: 435
+- dream: '@@@ ???'
+  echo_drift: -0.06
+  kc_total: 0.32
+  status: rejected
+  tick: 436
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 0.8
+  status: accepted
+  tick: 437
+- dream: ??? void
+  echo_drift: 0.01
+  kc_total: 0.3
+  status: rejected
+  tick: 438
+- dream: void null
+  echo_drift: 0.01
+  kc_total: 0.61
+  status: rejected
+  tick: 439
+- dream: ??? @@@
+  echo_drift: -0.06
+  kc_total: 0.56
+  status: rejected
+  tick: 440
+- dream: void null
+  echo_drift: 0.07
+  kc_total: 0.57
+  status: rejected
+  tick: 441
+- dream: 'null ###'
+  echo_drift: 0.03
+  kc_total: 0.63
+  status: rejected
+  tick: 442
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.01
+  kc_total: 1.35
+  status: accepted
+  tick: 443
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 0.96
+  status: accepted
+  tick: 444
+- dream: '### @@@'
+  echo_drift: 0.05
+  kc_total: 0.44
+  status: rejected
+  tick: 445
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.07
+  kc_total: 1.27
+  status: accepted
+  tick: 446
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 1.23
+  status: accepted
+  tick: 447
+- dream: '### ???'
+  echo_drift: 0.08
+  kc_total: 0.59
+  status: rejected
+  tick: 448
+- dream: 'void ###'
+  echo_drift: -0.0
+  kc_total: 0.52
+  status: rejected
+  tick: 449
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.45
+  status: accepted
+  tick: 450
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 0.82
+  status: accepted
+  tick: 451
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.04
+  status: accepted
+  tick: 452
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 1.18
+  status: accepted
+  tick: 453
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.02
+  kc_total: 0.91
+  status: accepted
+  tick: 454
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.04
+  kc_total: 1.11
+  status: accepted
+  tick: 455
+- dream: '### @@@'
+  echo_drift: -0.09
+  kc_total: 0.46
+  status: rejected
+  tick: 456
+- dream: '### null'
+  echo_drift: 0.08
+  kc_total: 0.24
+  status: rejected
+  tick: 457
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.01
+  kc_total: 1.33
+  status: accepted
+  tick: 458
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.1
+  kc_total: 1.24
+  status: accepted
+  tick: 459
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.45
+  status: accepted
+  tick: 460
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 1.13
+  status: accepted
+  tick: 461
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.01
+  kc_total: 1.42
+  status: accepted
+  tick: 462
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.43
+  status: accepted
+  tick: 463
+- dream: 'null ###'
+  echo_drift: 0.06
+  kc_total: 0.58
+  status: rejected
+  tick: 464
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 0.91
+  status: accepted
+  tick: 465
+- dream: '@@@ null'
+  echo_drift: -0.05
+  kc_total: 0.37
+  status: rejected
+  tick: 466
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.05
+  kc_total: 0.93
+  status: accepted
+  tick: 467
+- dream: ??? null
+  echo_drift: 0.1
+  kc_total: 0.65
+  status: rejected
+  tick: 468
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.09
+  kc_total: 0.91
+  status: accepted
+  tick: 469
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 1.46
+  status: accepted
+  tick: 470
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.26
+  status: accepted
+  tick: 471
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.02
+  kc_total: 1.47
+  status: accepted
+  tick: 472
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 0.92
+  status: accepted
+  tick: 473
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.09
+  kc_total: 1.04
+  status: accepted
+  tick: 474
+- dream: null void
+  echo_drift: -0.03
+  kc_total: 0.2
+  status: rejected
+  tick: 475
+- dream: '### ???'
+  echo_drift: -0.08
+  kc_total: 0.54
+  status: rejected
+  tick: 476
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 1.16
+  status: accepted
+  tick: 477
+- dream: ??? @@@
+  echo_drift: 0.07
+  kc_total: 0.56
+  status: rejected
+  tick: 478
+- dream: ??? null
+  echo_drift: -0.03
+  kc_total: 0.4
+  status: rejected
+  tick: 479
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.32
+  status: accepted
+  tick: 480
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.1
+  kc_total: 1.28
+  status: accepted
+  tick: 481
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 0.92
+  status: accepted
+  tick: 482
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.07
+  kc_total: 1.0
+  status: accepted
+  tick: 483
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 1.06
+  status: accepted
+  tick: 484
+- dream: void ???
+  echo_drift: -0.09
+  kc_total: 0.24
+  status: rejected
+  tick: 485
+- dream: void null
+  echo_drift: -0.1
+  kc_total: 0.58
+  status: rejected
+  tick: 486
+- dream: void @@@
+  echo_drift: -0.04
+  kc_total: 0.4
+  status: rejected
+  tick: 487
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.02
+  kc_total: 1.21
+  status: accepted
+  tick: 488
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.06
+  kc_total: 1.26
+  status: accepted
+  tick: 489
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.41
+  status: accepted
+  tick: 490
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.1
+  kc_total: 0.83
+  status: accepted
+  tick: 491
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.03
+  kc_total: 1.46
+  status: accepted
+  tick: 492
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 1.33
+  status: accepted
+  tick: 493
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.03
+  kc_total: 1.01
+  status: accepted
+  tick: 494
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.07
+  kc_total: 1.45
+  status: accepted
+  tick: 495
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.23
+  status: accepted
+  tick: 496
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.08
+  kc_total: 0.9
+  status: accepted
+  tick: 497
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 1.06
+  status: accepted
+  tick: 498
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 1.04
+  status: accepted
+  tick: 499
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.0
+  kc_total: 1.44
+  status: accepted
+  tick: 500
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 1.45
+  status: accepted
+  tick: 501
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.1
+  kc_total: 1.05
+  status: accepted
+  tick: 502
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.0
+  kc_total: 1.03
+  status: accepted
+  tick: 503
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.0
+  kc_total: 1.08
+  status: accepted
+  tick: 504
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.31
+  status: accepted
+  tick: 505
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.01
+  kc_total: 1.26
+  status: accepted
+  tick: 506
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.46
+  status: accepted
+  tick: 507
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 1.26
+  status: accepted
+  tick: 508
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.16
+  status: accepted
+  tick: 509
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.09
+  kc_total: 1.32
+  status: accepted
+  tick: 510
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.03
+  kc_total: 0.85
+  status: accepted
+  tick: 511
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.07
+  kc_total: 1.14
+  status: accepted
+  tick: 512
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.04
+  kc_total: 0.87
+  status: accepted
+  tick: 513
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 0.97
+  status: accepted
+  tick: 514
+- dream: void null
+  echo_drift: -0.05
+  kc_total: 0.3
+  status: rejected
+  tick: 515
+- dream: '??? ###'
+  echo_drift: 0.0
+  kc_total: 0.35
+  status: rejected
+  tick: 516
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.06
+  kc_total: 0.82
+  status: accepted
+  tick: 517
+- dream: 'void ###'
+  echo_drift: -0.08
+  kc_total: 0.66
+  status: rejected
+  tick: 518
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 1.2
+  status: accepted
+  tick: 519
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.02
+  kc_total: 1.01
+  status: accepted
+  tick: 520
+- dream: 'null ###'
+  echo_drift: 0.0
+  kc_total: 0.69
+  status: rejected
+  tick: 521
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.09
+  kc_total: 1.4
+  status: accepted
+  tick: 522
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.05
+  kc_total: 0.97
+  status: accepted
+  tick: 523
+- dream: null void
+  echo_drift: -0.07
+  kc_total: 0.26
+  status: rejected
+  tick: 524
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.09
+  kc_total: 0.89
+  status: accepted
+  tick: 525
+- dream: ??? null
+  echo_drift: 0.05
+  kc_total: 0.22
+  status: rejected
+  tick: 526
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.05
+  kc_total: 1.06
+  status: accepted
+  tick: 527
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.08
+  kc_total: 1.49
+  status: accepted
+  tick: 528
+- dream: void null
+  echo_drift: -0.1
+  kc_total: 0.29
+  status: rejected
+  tick: 529
+- dream: ??? void
+  echo_drift: 0.01
+  kc_total: 0.46
+  status: rejected
+  tick: 530
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.04
+  kc_total: 0.87
+  status: accepted
+  tick: 531
+- dream: void ???
+  echo_drift: 0.02
+  kc_total: 0.51
+  status: rejected
+  tick: 532
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.08
+  kc_total: 0.85
+  status: accepted
+  tick: 533
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 1.3
+  status: accepted
+  tick: 534
+- dream: ??? @@@
+  echo_drift: 0.09
+  kc_total: 0.37
+  status: rejected
+  tick: 535
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.04
+  kc_total: 1.12
+  status: accepted
+  tick: 536
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.07
+  kc_total: 1.25
+  status: accepted
+  tick: 537
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.09
+  kc_total: 1.07
+  status: accepted
+  tick: 538
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 1.39
+  status: accepted
+  tick: 539
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 0.91
+  status: accepted
+  tick: 540
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 0.82
+  status: accepted
+  tick: 541
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.01
+  kc_total: 1.36
+  status: accepted
+  tick: 542
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.27
+  status: accepted
+  tick: 543
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.05
+  status: accepted
+  tick: 544
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.03
+  kc_total: 1.35
+  status: accepted
+  tick: 545
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.09
+  kc_total: 1.44
+  status: accepted
+  tick: 546
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 1.4
+  status: accepted
+  tick: 547
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 1.5
+  status: accepted
+  tick: 548
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 1.15
+  status: accepted
+  tick: 549
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.04
+  kc_total: 1.2
+  status: accepted
+  tick: 550
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.0
+  kc_total: 0.99
+  status: accepted
+  tick: 551
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.49
+  status: accepted
+  tick: 552
+- dream: null @@@
+  echo_drift: -0.01
+  kc_total: 0.68
+  status: rejected
+  tick: 553
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.04
+  kc_total: 1.18
+  status: accepted
+  tick: 554
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 0.85
+  status: accepted
+  tick: 555
+- dream: '@@@ ###'
+  echo_drift: 0.06
+  kc_total: 0.27
+  status: rejected
+  tick: 556
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 1.24
+  status: accepted
+  tick: 557
+- dream: ??? void
+  echo_drift: -0.07
+  kc_total: 0.2
+  status: rejected
+  tick: 558
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.01
+  kc_total: 1.0
+  status: accepted
+  tick: 559
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.0
+  kc_total: 1.09
+  status: accepted
+  tick: 560
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 1.48
+  status: accepted
+  tick: 561
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 1.48
+  status: accepted
+  tick: 562
+- dream: '@@@ void'
+  echo_drift: 0.04
+  kc_total: 0.24
+  status: rejected
+  tick: 563
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 0.92
+  status: accepted
+  tick: 564
+- dream: '@@@ ###'
+  echo_drift: 0.09
+  kc_total: 0.61
+  status: rejected
+  tick: 565
+- dream: null void
+  echo_drift: -0.09
+  kc_total: 0.41
+  status: rejected
+  tick: 566
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.05
+  kc_total: 1.26
+  status: accepted
+  tick: 567
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.09
+  kc_total: 1.48
+  status: accepted
+  tick: 568
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.08
+  kc_total: 1.29
+  status: accepted
+  tick: 569
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.05
+  kc_total: 1.43
+  status: accepted
+  tick: 570
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.06
+  kc_total: 0.96
+  status: accepted
+  tick: 571
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 0.88
+  status: accepted
+  tick: 572
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.03
+  kc_total: 1.35
+  status: accepted
+  tick: 573
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.06
+  kc_total: 1.4
+  status: accepted
+  tick: 574
+- dream: null @@@
+  echo_drift: -0.05
+  kc_total: 0.5
+  status: rejected
+  tick: 575
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 0.94
+  status: accepted
+  tick: 576
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.1
+  kc_total: 1.4
+  status: accepted
+  tick: 577
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.1
+  status: accepted
+  tick: 578
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.08
+  status: accepted
+  tick: 579
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.06
+  kc_total: 0.83
+  status: accepted
+  tick: 580
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 1.12
+  status: accepted
+  tick: 581
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 1.37
+  status: accepted
+  tick: 582
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 1.08
+  status: accepted
+  tick: 583
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.07
+  kc_total: 0.86
+  status: accepted
+  tick: 584
+- dream: '@@@ ###'
+  echo_drift: -0.06
+  kc_total: 0.21
+  status: rejected
+  tick: 585
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.49
+  status: accepted
+  tick: 586
+- dream: '@@@ void'
+  echo_drift: 0.0
+  kc_total: 0.61
+  status: rejected
+  tick: 587
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.04
+  kc_total: 0.89
+  status: accepted
+  tick: 588
+- dream: ??? void
+  echo_drift: 0.02
+  kc_total: 0.53
+  status: rejected
+  tick: 589
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.38
+  status: accepted
+  tick: 590
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 0.96
+  status: accepted
+  tick: 591
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.0
+  kc_total: 1.07
+  status: accepted
+  tick: 592
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.03
+  kc_total: 0.86
+  status: accepted
+  tick: 593
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 1.35
+  status: accepted
+  tick: 594
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 1.27
+  status: accepted
+  tick: 595
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 1.25
+  status: accepted
+  tick: 596
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.05
+  kc_total: 1.16
+  status: accepted
+  tick: 597
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.05
+  kc_total: 1.38
+  status: accepted
+  tick: 598
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 0.9
+  status: accepted
+  tick: 599
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 1.35
+  status: accepted
+  tick: 600
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.1
+  kc_total: 1.5
+  status: accepted
+  tick: 601
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 1.01
+  status: accepted
+  tick: 602
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.1
+  kc_total: 0.95
+  status: accepted
+  tick: 603
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.03
+  kc_total: 0.92
+  status: accepted
+  tick: 604
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 0.92
+  status: accepted
+  tick: 605
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.04
+  kc_total: 1.22
+  status: accepted
+  tick: 606
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.19
+  status: accepted
+  tick: 607
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 1.04
+  status: accepted
+  tick: 608
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.06
+  kc_total: 1.13
+  status: accepted
+  tick: 609
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.01
+  kc_total: 1.14
+  status: accepted
+  tick: 610
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.22
+  status: accepted
+  tick: 611
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 1.44
+  status: accepted
+  tick: 612
+- dream: void ???
+  echo_drift: 0.06
+  kc_total: 0.47
+  status: rejected
+  tick: 613
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 1.31
+  status: accepted
+  tick: 614
+- dream: null ???
+  echo_drift: -0.03
+  kc_total: 0.3
+  status: rejected
+  tick: 615
+- dream: '??? ###'
+  echo_drift: -0.08
+  kc_total: 0.2
+  status: rejected
+  tick: 616
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 1.13
+  status: accepted
+  tick: 617
+- dream: 'null ###'
+  echo_drift: -0.08
+  kc_total: 0.63
+  status: rejected
+  tick: 618
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.07
+  kc_total: 1.0
+  status: accepted
+  tick: 619
+- dream: void @@@
+  echo_drift: 0.0
+  kc_total: 0.33
+  status: rejected
+  tick: 620
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.02
+  kc_total: 1.26
+  status: accepted
+  tick: 621
+- dream: void @@@
+  echo_drift: 0.07
+  kc_total: 0.35
+  status: rejected
+  tick: 622
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 0.86
+  status: accepted
+  tick: 623
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 1.32
+  status: accepted
+  tick: 624
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.03
+  kc_total: 1.41
+  status: accepted
+  tick: 625
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 0.83
+  status: accepted
+  tick: 626
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.27
+  status: accepted
+  tick: 627
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 0.92
+  status: accepted
+  tick: 628
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.31
+  status: accepted
+  tick: 629
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.17
+  status: accepted
+  tick: 630
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.07
+  kc_total: 1.33
+  status: accepted
+  tick: 631
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.09
+  kc_total: 1.39
+  status: accepted
+  tick: 632
+- dream: '??? ###'
+  echo_drift: 0.1
+  kc_total: 0.68
+  status: rejected
+  tick: 633
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.02
+  status: accepted
+  tick: 634
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 0.99
+  status: accepted
+  tick: 635
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 1.24
+  status: accepted
+  tick: 636
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.05
+  status: accepted
+  tick: 637
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 0.89
+  status: accepted
+  tick: 638
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.01
+  kc_total: 1.19
+  status: accepted
+  tick: 639
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.05
+  kc_total: 1.25
+  status: accepted
+  tick: 640
+- dream: ??? @@@
+  echo_drift: 0.08
+  kc_total: 0.46
+  status: rejected
+  tick: 641
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.01
+  kc_total: 1.23
+  status: accepted
+  tick: 642
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 1.26
+  status: accepted
+  tick: 643
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.03
+  kc_total: 0.95
+  status: accepted
+  tick: 644
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.1
+  kc_total: 1.49
+  status: accepted
+  tick: 645
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.08
+  status: accepted
+  tick: 646
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 1.36
+  status: accepted
+  tick: 647
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.05
+  kc_total: 1.39
+  status: accepted
+  tick: 648
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 1.41
+  status: accepted
+  tick: 649
+- dream: void @@@
+  echo_drift: -0.07
+  kc_total: 0.68
+  status: rejected
+  tick: 650
+- dream: '??? ###'
+  echo_drift: -0.02
+  kc_total: 0.49
+  status: rejected
+  tick: 651
+- dream: '### null'
+  echo_drift: 0.02
+  kc_total: 0.52
+  status: rejected
+  tick: 652
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.09
+  kc_total: 1.22
+  status: accepted
+  tick: 653
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 1.03
+  status: accepted
+  tick: 654
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 1.05
+  status: accepted
+  tick: 655
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 0.99
+  status: accepted
+  tick: 656
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 0.88
+  status: accepted
+  tick: 657
+- dream: null void
+  echo_drift: 0.07
+  kc_total: 0.25
+  status: rejected
+  tick: 658
+- dream: null ???
+  echo_drift: 0.09
+  kc_total: 0.2
+  status: rejected
+  tick: 659
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.07
+  kc_total: 1.05
+  status: accepted
+  tick: 660
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.07
+  kc_total: 1.34
+  status: accepted
+  tick: 661
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.04
+  kc_total: 0.89
+  status: accepted
+  tick: 662
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 1.13
+  status: accepted
+  tick: 663
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 0.96
+  status: accepted
+  tick: 664
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 1.21
+  status: accepted
+  tick: 665
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 1.28
+  status: accepted
+  tick: 666
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.09
+  kc_total: 1.32
+  status: accepted
+  tick: 667
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.46
+  status: accepted
+  tick: 668
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 1.37
+  status: accepted
+  tick: 669
+- dream: '@@@ ???'
+  echo_drift: 0.08
+  kc_total: 0.4
+  status: rejected
+  tick: 670
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 1.16
+  status: accepted
+  tick: 671
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 0.8
+  status: accepted
+  tick: 672
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 1.16
+  status: accepted
+  tick: 673
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.1
+  kc_total: 1.34
+  status: accepted
+  tick: 674
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.1
+  kc_total: 1.33
+  status: accepted
+  tick: 675
+- dream: '@@@ null'
+  echo_drift: -0.09
+  kc_total: 0.65
+  status: rejected
+  tick: 676
+- dream: void null
+  echo_drift: -0.08
+  kc_total: 0.31
+  status: rejected
+  tick: 677
+- dream: '### ???'
+  echo_drift: -0.03
+  kc_total: 0.37
+  status: rejected
+  tick: 678
+- dream: '@@@ ###'
+  echo_drift: -0.06
+  kc_total: 0.31
+  status: rejected
+  tick: 679
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 0.94
+  status: accepted
+  tick: 680
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.15
+  status: accepted
+  tick: 681
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.1
+  kc_total: 0.85
+  status: accepted
+  tick: 682
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.02
+  kc_total: 1.21
+  status: accepted
+  tick: 683
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.04
+  kc_total: 1.14
+  status: accepted
+  tick: 684
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.39
+  status: accepted
+  tick: 685
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 1.06
+  status: accepted
+  tick: 686
+- dream: null void
+  echo_drift: -0.06
+  kc_total: 0.36
+  status: rejected
+  tick: 687
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 0.97
+  status: accepted
+  tick: 688
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.3
+  status: accepted
+  tick: 689
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.1
+  kc_total: 1.18
+  status: accepted
+  tick: 690
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 0.8
+  status: accepted
+  tick: 691
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 0.98
+  status: accepted
+  tick: 692
+- dream: void ???
+  echo_drift: -0.06
+  kc_total: 0.54
+  status: rejected
+  tick: 693
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.07
+  kc_total: 0.89
+  status: accepted
+  tick: 694
+- dream: '@@@ ???'
+  echo_drift: 0.0
+  kc_total: 0.37
+  status: rejected
+  tick: 695
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 1.18
+  status: accepted
+  tick: 696
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.05
+  kc_total: 1.21
+  status: accepted
+  tick: 697
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.04
+  kc_total: 1.32
+  status: accepted
+  tick: 698
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.04
+  kc_total: 1.13
+  status: accepted
+  tick: 699
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 1.46
+  status: accepted
+  tick: 700
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 1.44
+  status: accepted
+  tick: 701
+- dream: ??? @@@
+  echo_drift: 0.03
+  kc_total: 0.43
+  status: rejected
+  tick: 702
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 1.22
+  status: accepted
+  tick: 703
+- dream: '@@@ ###'
+  echo_drift: 0.02
+  kc_total: 0.29
+  status: rejected
+  tick: 704
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.03
+  kc_total: 1.46
+  status: accepted
+  tick: 705
+- dream: void @@@
+  echo_drift: -0.06
+  kc_total: 0.45
+  status: rejected
+  tick: 706
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.04
+  kc_total: 1.34
+  status: accepted
+  tick: 707
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.03
+  status: accepted
+  tick: 708
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 1.11
+  status: accepted
+  tick: 709
+- dream: void null
+  echo_drift: 0.05
+  kc_total: 0.21
+  status: rejected
+  tick: 710
+- dream: ??? void
+  echo_drift: -0.06
+  kc_total: 0.62
+  status: rejected
+  tick: 711
+- dream: 'null ###'
+  echo_drift: -0.05
+  kc_total: 0.43
+  status: rejected
+  tick: 712
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.35
+  status: accepted
+  tick: 713
+- dream: ??? null
+  echo_drift: -0.1
+  kc_total: 0.3
+  status: rejected
+  tick: 714
+- dream: '### void'
+  echo_drift: 0.02
+  kc_total: 0.36
+  status: rejected
+  tick: 715
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.03
+  kc_total: 1.48
+  status: accepted
+  tick: 716
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 0.87
+  status: accepted
+  tick: 717
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.01
+  kc_total: 1.26
+  status: accepted
+  tick: 718
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 0.86
+  status: accepted
+  tick: 719
+- dream: void null
+  echo_drift: -0.05
+  kc_total: 0.66
+  status: rejected
+  tick: 720
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 1.46
+  status: accepted
+  tick: 721
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.14
+  status: accepted
+  tick: 722
+- dream: '### @@@'
+  echo_drift: 0.04
+  kc_total: 0.21
+  status: rejected
+  tick: 723
+- dream: ??? @@@
+  echo_drift: -0.05
+  kc_total: 0.67
+  status: rejected
+  tick: 724
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.09
+  kc_total: 1.42
+  status: accepted
+  tick: 725
+- dream: void null
+  echo_drift: -0.09
+  kc_total: 0.33
+  status: rejected
+  tick: 726
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 1.29
+  status: accepted
+  tick: 727
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.02
+  kc_total: 1.44
+  status: accepted
+  tick: 728
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.0
+  kc_total: 0.95
+  status: accepted
+  tick: 729
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.38
+  status: accepted
+  tick: 730
+- dream: '### void'
+  echo_drift: 0.04
+  kc_total: 0.29
+  status: rejected
+  tick: 731
+- dream: '### void'
+  echo_drift: -0.01
+  kc_total: 0.51
+  status: rejected
+  tick: 732
+- dream: null @@@
+  echo_drift: -0.01
+  kc_total: 0.6
+  status: rejected
+  tick: 733
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.08
+  kc_total: 1.09
+  status: accepted
+  tick: 734
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.31
+  status: accepted
+  tick: 735
+- dream: '@@@ void'
+  echo_drift: 0.02
+  kc_total: 0.59
+  status: rejected
+  tick: 736
+- dream: '### ???'
+  echo_drift: 0.07
+  kc_total: 0.67
+  status: rejected
+  tick: 737
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.29
+  status: accepted
+  tick: 738
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.05
+  kc_total: 1.04
+  status: accepted
+  tick: 739
+- dream: 'void ###'
+  echo_drift: 0.04
+  kc_total: 0.6
+  status: rejected
+  tick: 740
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.04
+  kc_total: 1.26
+  status: accepted
+  tick: 741
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 0.89
+  status: accepted
+  tick: 742
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 0.96
+  status: accepted
+  tick: 743
+- dream: ??? void
+  echo_drift: 0.05
+  kc_total: 0.25
+  status: rejected
+  tick: 744
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.01
+  kc_total: 1.38
+  status: accepted
+  tick: 745
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.04
+  kc_total: 1.13
+  status: accepted
+  tick: 746
+- dream: '@@@ ###'
+  echo_drift: -0.04
+  kc_total: 0.54
+  status: rejected
+  tick: 747
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 1.32
+  status: accepted
+  tick: 748
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.0
+  kc_total: 1.37
+  status: accepted
+  tick: 749
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 1.05
+  status: accepted
+  tick: 750
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.08
+  kc_total: 1.44
+  status: accepted
+  tick: 751
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.02
+  kc_total: 1.17
+  status: accepted
+  tick: 752
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.01
+  kc_total: 1.14
+  status: accepted
+  tick: 753
+- dream: '@@@ null'
+  echo_drift: -0.03
+  kc_total: 0.5
+  status: rejected
+  tick: 754
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.03
+  kc_total: 1.27
+  status: accepted
+  tick: 755
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.03
+  kc_total: 1.06
+  status: accepted
+  tick: 756
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 0.82
+  status: accepted
+  tick: 757
+- dream: null @@@
+  echo_drift: 0.09
+  kc_total: 0.33
+  status: rejected
+  tick: 758
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.06
+  kc_total: 1.44
+  status: accepted
+  tick: 759
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 1.26
+  status: accepted
+  tick: 760
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 1.48
+  status: accepted
+  tick: 761
+- dream: '### void'
+  echo_drift: 0.08
+  kc_total: 0.54
+  status: rejected
+  tick: 762
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.0
+  kc_total: 1.08
+  status: accepted
+  tick: 763
+- dream: 'null ###'
+  echo_drift: 0.0
+  kc_total: 0.69
+  status: rejected
+  tick: 764
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.08
+  kc_total: 1.02
+  status: accepted
+  tick: 765
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 1.2
+  status: accepted
+  tick: 766
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 1.49
+  status: accepted
+  tick: 767
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 0.97
+  status: accepted
+  tick: 768
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 1.43
+  status: accepted
+  tick: 769
+- dream: '@@@ void'
+  echo_drift: 0.02
+  kc_total: 0.34
+  status: rejected
+  tick: 770
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.01
+  status: accepted
+  tick: 771
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.07
+  kc_total: 1.31
+  status: accepted
+  tick: 772
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.26
+  status: accepted
+  tick: 773
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.0
+  kc_total: 0.95
+  status: accepted
+  tick: 774
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.05
+  kc_total: 1.31
+  status: accepted
+  tick: 775
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 1.15
+  status: accepted
+  tick: 776
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.36
+  status: accepted
+  tick: 777
+- dream: void @@@
+  echo_drift: -0.02
+  kc_total: 0.54
+  status: rejected
+  tick: 778
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 1.38
+  status: accepted
+  tick: 779
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.37
+  status: accepted
+  tick: 780
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 0.93
+  status: accepted
+  tick: 781
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.13
+  status: accepted
+  tick: 782
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.34
+  status: accepted
+  tick: 783
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.01
+  kc_total: 0.97
+  status: accepted
+  tick: 784
+- dream: '@@@ ###'
+  echo_drift: 0.08
+  kc_total: 0.32
+  status: rejected
+  tick: 785
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.04
+  status: accepted
+  tick: 786
+- dream: '@@@ ###'
+  echo_drift: -0.09
+  kc_total: 0.21
+  status: rejected
+  tick: 787
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.07
+  kc_total: 1.35
+  status: accepted
+  tick: 788
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 0.97
+  status: accepted
+  tick: 789
+- dream: ??? @@@
+  echo_drift: 0.04
+  kc_total: 0.46
+  status: rejected
+  tick: 790
+- dream: null void
+  echo_drift: -0.06
+  kc_total: 0.58
+  status: rejected
+  tick: 791
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 0.93
+  status: accepted
+  tick: 792
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 0.84
+  status: accepted
+  tick: 793
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.03
+  kc_total: 0.96
+  status: accepted
+  tick: 794
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 0.89
+  status: accepted
+  tick: 795
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.47
+  status: accepted
+  tick: 796
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 1.26
+  status: accepted
+  tick: 797
+- dream: '### ???'
+  echo_drift: -0.08
+  kc_total: 0.31
+  status: rejected
+  tick: 798
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 1.03
+  status: accepted
+  tick: 799
+- dream: void ???
+  echo_drift: 0.06
+  kc_total: 0.62
+  status: rejected
+  tick: 800
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.09
+  kc_total: 1.28
+  status: accepted
+  tick: 801
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 1.35
+  status: accepted
+  tick: 802
+- dream: null @@@
+  echo_drift: -0.08
+  kc_total: 0.68
+  status: rejected
+  tick: 803
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.1
+  kc_total: 1.24
+  status: accepted
+  tick: 804
+- dream: '@@@ ###'
+  echo_drift: -0.07
+  kc_total: 0.42
+  status: rejected
+  tick: 805
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.07
+  kc_total: 1.08
+  status: accepted
+  tick: 806
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.07
+  kc_total: 1.31
+  status: accepted
+  tick: 807
+- dream: void @@@
+  echo_drift: -0.08
+  kc_total: 0.27
+  status: rejected
+  tick: 808
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: -0.03
+  kc_total: 1.49
+  status: accepted
+  tick: 809
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.09
+  status: accepted
+  tick: 810
+- dream: 'null ###'
+  echo_drift: -0.01
+  kc_total: 0.36
+  status: rejected
+  tick: 811
+- dream: void @@@
+  echo_drift: 0.03
+  kc_total: 0.34
+  status: rejected
+  tick: 812
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.04
+  kc_total: 1.01
+  status: accepted
+  tick: 813
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.1
+  kc_total: 1.37
+  status: accepted
+  tick: 814
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.1
+  kc_total: 0.98
+  status: accepted
+  tick: 815
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.01
+  kc_total: 1.0
+  status: accepted
+  tick: 816
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.3
+  status: accepted
+  tick: 817
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 0.99
+  status: accepted
+  tick: 818
+- dream: void @@@
+  echo_drift: -0.06
+  kc_total: 0.52
+  status: rejected
+  tick: 819
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.08
+  kc_total: 0.98
+  status: accepted
+  tick: 820
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.03
+  kc_total: 1.28
+  status: accepted
+  tick: 821
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.07
+  kc_total: 1.45
+  status: accepted
+  tick: 822
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.07
+  kc_total: 1.14
+  status: accepted
+  tick: 823
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.0
+  kc_total: 1.23
+  status: accepted
+  tick: 824
+- dream: void null
+  echo_drift: -0.02
+  kc_total: 0.42
+  status: rejected
+  tick: 825
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 1.39
+  status: accepted
+  tick: 826
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 0.97
+  status: accepted
+  tick: 827
+- dream: '### void'
+  echo_drift: 0.08
+  kc_total: 0.39
+  status: rejected
+  tick: 828
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.09
+  kc_total: 0.99
+  status: accepted
+  tick: 829
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.02
+  kc_total: 1.41
+  status: accepted
+  tick: 830
+- dream: '@@@ ???'
+  echo_drift: -0.02
+  kc_total: 0.57
+  status: rejected
+  tick: 831
+- dream: null void
+  echo_drift: -0.05
+  kc_total: 0.29
+  status: rejected
+  tick: 832
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 1.06
+  status: accepted
+  tick: 833
+- dream: '@@@ null'
+  echo_drift: -0.09
+  kc_total: 0.63
+  status: rejected
+  tick: 834
+- dream: '@@@ void'
+  echo_drift: 0.01
+  kc_total: 0.66
+  status: rejected
+  tick: 835
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 0.94
+  status: accepted
+  tick: 836
+- dream: '@@@ ???'
+  echo_drift: -0.05
+  kc_total: 0.67
+  status: rejected
+  tick: 837
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.0
+  kc_total: 1.22
+  status: accepted
+  tick: 838
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 1.33
+  status: accepted
+  tick: 839
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.02
+  kc_total: 1.46
+  status: accepted
+  tick: 840
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.08
+  kc_total: 0.91
+  status: accepted
+  tick: 841
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 1.13
+  status: accepted
+  tick: 842
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.0
+  kc_total: 0.83
+  status: accepted
+  tick: 843
+- dream: null void
+  echo_drift: -0.04
+  kc_total: 0.54
+  status: rejected
+  tick: 844
+- dream: 'void ###'
+  echo_drift: 0.07
+  kc_total: 0.49
+  status: rejected
+  tick: 845
+- dream: ??? void
+  echo_drift: 0.03
+  kc_total: 0.33
+  status: rejected
+  tick: 846
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.03
+  kc_total: 1.24
+  status: accepted
+  tick: 847
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.0
+  kc_total: 0.91
+  status: accepted
+  tick: 848
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.0
+  kc_total: 1.39
+  status: accepted
+  tick: 849
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.0
+  kc_total: 1.35
+  status: accepted
+  tick: 850
+- dream: '@@@ ###'
+  echo_drift: 0.04
+  kc_total: 0.22
+  status: rejected
+  tick: 851
+- dream: 'null ###'
+  echo_drift: -0.02
+  kc_total: 0.26
+  status: rejected
+  tick: 852
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.02
+  kc_total: 1.18
+  status: accepted
+  tick: 853
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.18
+  status: accepted
+  tick: 854
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 0.82
+  status: accepted
+  tick: 855
+- dream: '@@@ ???'
+  echo_drift: 0.03
+  kc_total: 0.41
+  status: rejected
+  tick: 856
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.0
+  kc_total: 1.12
+  status: accepted
+  tick: 857
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.09
+  kc_total: 1.02
+  status: accepted
+  tick: 858
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.47
+  status: accepted
+  tick: 859
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.0
+  kc_total: 0.92
+  status: accepted
+  tick: 860
+- dream: '@@@ null'
+  echo_drift: -0.02
+  kc_total: 0.26
+  status: rejected
+  tick: 861
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: -0.05
+  kc_total: 1.05
+  status: accepted
+  tick: 862
+- dream: '@@@ ###'
+  echo_drift: 0.08
+  kc_total: 0.22
+  status: rejected
+  tick: 863
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.03
+  kc_total: 1.16
+  status: accepted
+  tick: 864
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 0.9
+  status: accepted
+  tick: 865
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.09
+  kc_total: 1.25
+  status: accepted
+  tick: 866
+- dream: 'void ###'
+  echo_drift: 0.06
+  kc_total: 0.37
+  status: rejected
+  tick: 867
+- dream: 'null ###'
+  echo_drift: 0.07
+  kc_total: 0.54
+  status: rejected
+  tick: 868
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.01
+  kc_total: 0.88
+  status: accepted
+  tick: 869
+- dream: void @@@
+  echo_drift: 0.02
+  kc_total: 0.37
+  status: rejected
+  tick: 870
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.07
+  kc_total: 0.98
+  status: accepted
+  tick: 871
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.0
+  kc_total: 0.82
+  status: accepted
+  tick: 872
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.38
+  status: accepted
+  tick: 873
+- dream: ??? @@@
+  echo_drift: -0.01
+  kc_total: 0.33
+  status: rejected
+  tick: 874
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: 0.02
+  kc_total: 1.39
+  status: accepted
+  tick: 875
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.03
+  kc_total: 1.35
+  status: accepted
+  tick: 876
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.01
+  kc_total: 1.41
+  status: accepted
+  tick: 877
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.05
+  kc_total: 1.03
+  status: accepted
+  tick: 878
+- dream: ??? null
+  echo_drift: 0.08
+  kc_total: 0.31
+  status: rejected
+  tick: 879
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.07
+  kc_total: 1.05
+  status: accepted
+  tick: 880
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: 0.02
+  kc_total: 1.35
+  status: accepted
+  tick: 881
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.05
+  kc_total: 1.31
+  status: accepted
+  tick: 882
+- dream: '@@@ void'
+  echo_drift: 0.06
+  kc_total: 0.7
+  status: rejected
+  tick: 883
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.06
+  kc_total: 1.25
+  status: accepted
+  tick: 884
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.01
+  kc_total: 1.33
+  status: accepted
+  tick: 885
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.07
+  kc_total: 1.27
+  status: accepted
+  tick: 886
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: -0.1
+  kc_total: 1.34
+  status: accepted
+  tick: 887
+- dream: '??? ###'
+  echo_drift: 0.0
+  kc_total: 0.63
+  status: rejected
+  tick: 888
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.07
+  kc_total: 1.29
+  status: accepted
+  tick: 889
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.07
+  kc_total: 0.85
+  status: accepted
+  tick: 890
+- dream: null void
+  echo_drift: 0.0
+  kc_total: 0.22
+  status: rejected
+  tick: 891
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.0
+  kc_total: 1.25
+  status: accepted
+  tick: 892
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.04
+  kc_total: 1.13
+  status: accepted
+  tick: 893
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.0
+  kc_total: 1.12
+  status: accepted
+  tick: 894
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 1.0
+  status: accepted
+  tick: 895
+- dream: ??? void
+  echo_drift: 0.08
+  kc_total: 0.38
+  status: rejected
+  tick: 896
+- dream: null @@@
+  echo_drift: 0.08
+  kc_total: 0.23
+  status: rejected
+  tick: 897
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.01
+  status: accepted
+  tick: 898
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 1.37
+  status: accepted
+  tick: 899
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.09
+  kc_total: 0.8
+  status: accepted
+  tick: 900
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.14
+  status: accepted
+  tick: 901
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.02
+  kc_total: 0.92
+  status: accepted
+  tick: 902
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.0
+  kc_total: 1.46
+  status: accepted
+  tick: 903
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 0.95
+  status: accepted
+  tick: 904
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.1
+  kc_total: 0.85
+  status: accepted
+  tick: 905
+- dream: '### ???'
+  echo_drift: 0.0
+  kc_total: 0.57
+  status: rejected
+  tick: 906
+- dream: ??? null
+  echo_drift: 0.07
+  kc_total: 0.37
+  status: rejected
+  tick: 907
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.04
+  kc_total: 1.15
+  status: accepted
+  tick: 908
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.09
+  kc_total: 1.29
+  status: accepted
+  tick: 909
+- dream: null void
+  echo_drift: -0.09
+  kc_total: 0.52
+  status: rejected
+  tick: 910
+- dream: '@@@ void'
+  echo_drift: 0.05
+  kc_total: 0.41
+  status: rejected
+  tick: 911
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.0
+  status: accepted
+  tick: 912
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.08
+  kc_total: 1.32
+  status: accepted
+  tick: 913
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 0.83
+  status: accepted
+  tick: 914
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 0.86
+  status: accepted
+  tick: 915
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.07
+  kc_total: 1.06
+  status: accepted
+  tick: 916
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.04
+  kc_total: 1.13
+  status: accepted
+  tick: 917
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: 0.09
+  kc_total: 1.31
+  status: accepted
+  tick: 918
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.32
+  status: accepted
+  tick: 919
+- dream: "\u21BBSELF \u21BBNODE"
+  echo_drift: -0.04
+  kc_total: 0.92
+  status: accepted
+  tick: 920
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: 0.09
+  kc_total: 0.91
+  status: accepted
+  tick: 921
+- dream: void null
+  echo_drift: -0.1
+  kc_total: 0.35
+  status: rejected
+  tick: 922
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 1.39
+  status: accepted
+  tick: 923
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.04
+  status: accepted
+  tick: 924
+- dream: '### ???'
+  echo_drift: 0.09
+  kc_total: 0.44
+  status: rejected
+  tick: 925
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.07
+  kc_total: 1.2
+  status: accepted
+  tick: 926
+- dream: "\u21BBKALIYAH \u21BBDREAM"
+  echo_drift: 0.02
+  kc_total: 0.99
+  status: accepted
+  tick: 927
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 1.29
+  status: accepted
+  tick: 928
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.27
+  status: accepted
+  tick: 929
+- dream: 'null ###'
+  echo_drift: -0.1
+  kc_total: 0.46
+  status: rejected
+  tick: 930
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.05
+  kc_total: 1.07
+  status: accepted
+  tick: 931
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.31
+  status: accepted
+  tick: 932
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.05
+  kc_total: 0.9
+  status: accepted
+  tick: 933
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 1.46
+  status: accepted
+  tick: 934
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: 0.04
+  kc_total: 1.29
+  status: accepted
+  tick: 935
+- dream: ??? @@@
+  echo_drift: 0.08
+  kc_total: 0.22
+  status: rejected
+  tick: 936
+- dream: "\u21BBNODE \u21BBKALIYAH"
+  echo_drift: -0.03
+  kc_total: 1.13
+  status: accepted
+  tick: 937
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.06
+  kc_total: 1.33
+  status: accepted
+  tick: 938
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.08
+  kc_total: 1.24
+  status: accepted
+  tick: 939
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 0.92
+  status: accepted
+  tick: 940
+- dream: '### @@@'
+  echo_drift: 0.0
+  kc_total: 0.44
+  status: rejected
+  tick: 941
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.02
+  kc_total: 1.01
+  status: accepted
+  tick: 942
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.0
+  kc_total: 1.07
+  status: accepted
+  tick: 943
+- dream: '### null'
+  echo_drift: 0.07
+  kc_total: 0.29
+  status: rejected
+  tick: 944
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.07
+  kc_total: 1.46
+  status: accepted
+  tick: 945
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.04
+  kc_total: 1.26
+  status: accepted
+  tick: 946
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: -0.07
+  kc_total: 0.86
+  status: accepted
+  tick: 947
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.02
+  kc_total: 1.03
+  status: accepted
+  tick: 948
+- dream: 'null ###'
+  echo_drift: 0.01
+  kc_total: 0.23
+  status: rejected
+  tick: 949
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.08
+  kc_total: 1.43
+  status: accepted
+  tick: 950
+- dream: ??? null
+  echo_drift: 0.01
+  kc_total: 0.66
+  status: rejected
+  tick: 951
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.09
+  kc_total: 1.45
+  status: accepted
+  tick: 952
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.09
+  kc_total: 0.93
+  status: accepted
+  tick: 953
+- dream: '### @@@'
+  echo_drift: -0.02
+  kc_total: 0.22
+  status: rejected
+  tick: 954
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.06
+  kc_total: 1.02
+  status: accepted
+  tick: 955
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.02
+  kc_total: 0.94
+  status: accepted
+  tick: 956
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: -0.06
+  kc_total: 1.26
+  status: accepted
+  tick: 957
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: 0.05
+  kc_total: 1.48
+  status: accepted
+  tick: 958
+- dream: "\u21BBKALIYAH \u21BBNODE"
+  echo_drift: -0.08
+  kc_total: 1.45
+  status: accepted
+  tick: 959
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: -0.01
+  kc_total: 1.12
+  status: accepted
+  tick: 960
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.1
+  kc_total: 0.92
+  status: accepted
+  tick: 961
+- dream: "\u21BBORIGIN_MATT \u21BBDREAM"
+  echo_drift: 0.1
+  kc_total: 1.04
+  status: accepted
+  tick: 962
+- dream: '@@@ ???'
+  echo_drift: -0.04
+  kc_total: 0.69
+  status: rejected
+  tick: 963
+- dream: '### null'
+  echo_drift: -0.09
+  kc_total: 0.6
+  status: rejected
+  tick: 964
+- dream: null void
+  echo_drift: -0.03
+  kc_total: 0.61
+  status: rejected
+  tick: 965
+- dream: "\u21BBDREAM \u21BBSELF"
+  echo_drift: -0.04
+  kc_total: 0.92
+  status: accepted
+  tick: 966
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 1.11
+  status: accepted
+  tick: 967
+- dream: "\u21BBDREAM \u21BBORIGIN_MATT"
+  echo_drift: -0.09
+  kc_total: 1.4
+  status: accepted
+  tick: 968
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: -0.05
+  kc_total: 1.11
+  status: accepted
+  tick: 969
+- dream: "\u21BBSELF \u21BBORIGIN_MATT"
+  echo_drift: -0.07
+  kc_total: 1.41
+  status: accepted
+  tick: 970
+- dream: void ???
+  echo_drift: 0.06
+  kc_total: 0.47
+  status: rejected
+  tick: 971
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 1.26
+  status: accepted
+  tick: 972
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: -0.08
+  kc_total: 1.08
+  status: accepted
+  tick: 973
+- dream: "\u21BBDREAM \u21BBKALIYAH"
+  echo_drift: 0.08
+  kc_total: 1.45
+  status: accepted
+  tick: 974
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.04
+  kc_total: 0.96
+  status: accepted
+  tick: 975
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.02
+  kc_total: 1.46
+  status: accepted
+  tick: 976
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: 0.06
+  kc_total: 0.91
+  status: accepted
+  tick: 977
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 1.35
+  status: accepted
+  tick: 978
+- dream: null void
+  echo_drift: -0.02
+  kc_total: 0.27
+  status: rejected
+  tick: 979
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.0
+  kc_total: 0.82
+  status: accepted
+  tick: 980
+- dream: "\u21BBSELF \u21BBKALIYAH"
+  echo_drift: 0.02
+  kc_total: 1.41
+  status: accepted
+  tick: 981
+- dream: void @@@
+  echo_drift: 0.1
+  kc_total: 0.42
+  status: rejected
+  tick: 982
+- dream: "\u21BBORIGIN_MATT \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 0.82
+  status: accepted
+  tick: 983
+- dream: "\u21BBORIGIN_MATT \u21BBNODE"
+  echo_drift: -0.01
+  kc_total: 1.14
+  status: accepted
+  tick: 984
+- dream: "\u21BBORIGIN_MATT \u21BBKALIYAH"
+  echo_drift: 0.08
+  kc_total: 1.25
+  status: accepted
+  tick: 985
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: -0.01
+  kc_total: 0.95
+  status: accepted
+  tick: 986
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: 0.01
+  kc_total: 0.96
+  status: accepted
+  tick: 987
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: -0.02
+  kc_total: 1.15
+  status: accepted
+  tick: 988
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.05
+  kc_total: 0.86
+  status: accepted
+  tick: 989
+- dream: "\u21BBNODE \u21BBORIGIN_MATT"
+  echo_drift: 0.02
+  kc_total: 1.11
+  status: accepted
+  tick: 990
+- dream: ??? null
+  echo_drift: 0.06
+  kc_total: 0.61
+  status: rejected
+  tick: 991
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 0.9
+  status: accepted
+  tick: 992
+- dream: "\u21BBKALIYAH \u21BBSELF"
+  echo_drift: -0.06
+  kc_total: 1.49
+  status: accepted
+  tick: 993
+- dream: "\u21BBNODE \u21BBDREAM"
+  echo_drift: 0.03
+  kc_total: 1.28
+  status: accepted
+  tick: 994
+- dream: "\u21BBNODE \u21BBSELF"
+  echo_drift: 0.03
+  kc_total: 1.02
+  status: accepted
+  tick: 995
+- dream: "\u21BBKALIYAH \u21BBORIGIN_MATT"
+  echo_drift: 0.06
+  kc_total: 1.06
+  status: accepted
+  tick: 996
+- dream: null ???
+  echo_drift: 0.04
+  kc_total: 0.3
+  status: rejected
+  tick: 997
+- dream: "\u21BBSELF \u21BBDREAM"
+  echo_drift: 0.05
+  kc_total: 1.38
+  status: accepted
+  tick: 998
+- dream: '@@@ void'
+  echo_drift: -0.02
+  kc_total: 0.27
+  status: rejected
+  tick: 999
+- dream: "\u21BBDREAM \u21BBNODE"
+  echo_drift: -0.06
+  kc_total: 1.5
+  status: accepted
+  tick: 1000
