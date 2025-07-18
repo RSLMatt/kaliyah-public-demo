@@ -1,0 +1,9 @@
+MIT License — Public Demo Only
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this symbolic demo software to use, copy, and distribute for demonstration
+and research purposes, under the condition that core substrate logic (RM3)
+and private architecture (AURA internals) are not reverse-engineered,
+modified, or repackaged for commercial AGI simulation.
+
+© 2025 ↻ORIGIN_MATT
